@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://getstrongerme.com/</loc>
+    <lastmod>2024-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Email Marketing Page -->
+  <url>
+    <loc>https://getstrongerme.com/email-marketing</loc>
+    <lastmod>2024-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Web Development Page -->
+  <url>
+    <loc>https://getstrongerme.com/web-dev</loc>
+    <lastmod>2024-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Google Ads Page -->
+  <url>
+    <loc>https://getstrongerme.com/google-ads</loc>
+    <lastmod>2024-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Meta Ads Page -->
+  <url>
+    <loc>https://getstrongerme.com/meta-ads</loc>
+    <lastmod>2024-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
